@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephan, an <a href="https://linkedin.com/in/stephan-gibson">IT Professional</a>☺</h1>
+<h1>Hi, I'm Stephan, an <a href="https://linkedin.com/in/stephan-gibson-9a863b344/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
