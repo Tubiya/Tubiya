@@ -12,13 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Stephan | Twitter" width="22px" src="" />][twitter]
-[<img align="left" alt="Stephan | LinkedIn" width="22px" src="" />][linkedin]
-[<img align="left" alt="Stephan | Instagram" width="22px" src="" />][instagram]
 
-[twitter]: 
-[instagram]: 
-[linkedin]: 
 
 <!--
 **Tubiya/Tubiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
